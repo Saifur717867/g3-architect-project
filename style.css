@@ -15,7 +15,26 @@ body{
     font-weight: 700;
     font-size: 2rem;
 }
+.content-para{
+    font-size: 1rem;
+    color: #727272;
+    font-weight: 400;
+    line-height: 26px;
+    padding: 25px 0;
+}
+.img-width{
+    width: 100%;
+}
+.btn-primary{
+    color: white;
+    background-color: #FF900E;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 5px;
+}
+/* header section starts  */
 #header{
+    padding: 35px 0;
     background-color: rgba(255, 144, 14, 0.10);
 }
 .nav-bar{
@@ -34,4 +53,15 @@ body{
     color: #131313;
     text-decoration: none;
 
+}
+.banner-title{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+}
+.banner-content{
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    padding: 60px 0 35px; 
 }
